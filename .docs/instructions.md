@@ -62,7 +62,7 @@ Notice that were we to stack these, we could visually decode the
 ciphertext back in to the original message:
 
 ```text
-"imtgdvs"
+"zmtgdvs"
 "fearwer"
 "mayoogo"
 "anouuio"
